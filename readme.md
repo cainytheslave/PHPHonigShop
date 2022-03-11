@@ -1,14 +1,5 @@
-<div id="header">
-
-![alt text](images/logo.svg)
-<div>
-
 ## Honig4U Online Shop
 ### von Muzaffer
-</div>
-
-</div>
-
 ---
 
 Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem Geschäftsleiter der Firma überarbeitet werden.
@@ -53,16 +44,3 @@ Kunde:
 Mitarbeiter:
 - Email: mitarbeiter@honig4u.ch
 - Passwort: IchKannStornieren
-
-
-
-<style type="text/css">
-    img {
-        height: 60px;
-        margin-right:15px;
-    }
-    div#header {
-        display:flex;
-        justify-content:
-    }
-</style>
