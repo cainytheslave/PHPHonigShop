@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "watch": "npx tailwindcss -i ./tailwind.css -o ./HonigShopMuzaffer/style.css --watch"
+    },
+
+    "devDependencies": {
+        "tailwindcss": "^3.0.23"
+    }
+}
