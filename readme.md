@@ -26,6 +26,16 @@ Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 
 :white_check_mark: Geschafft! Der Shop ist nun einsatzbereit.
 
+## Test-Accounts
+
+Kunde:
+- Email: kunde@honig4u.ch
+- Passwort: IchKaufeHonig
+
+Mitarbeiter:
+- Email: mitarbeiter@honig4u.ch
+- Passwort: IchKannStornieren
+
 ## Informationen
 - programmiert mit PHP 8
 - Plain PHP, keine externen PHP Skripts
@@ -54,13 +64,3 @@ Registrierung
 
 Mitarbeiterbereich
 : Eingeloggte Mitarbeiter können hier Bestellungen stornieren.
-
-## Test-Accounts
-
-Kunde:
-- Email: kunde@honig4u.ch
-- Passwort: IchKaufeHonig
-
-Mitarbeiter:
-- Email: mitarbeiter@honig4u.ch
-- Passwort: IchKannStornieren
