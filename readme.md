@@ -3,11 +3,21 @@
 
 Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem Geschäftsleiter der Firma überarbeitet werden.
 
+## Dateien die im Betrieb nicht gebraucht werden
+
+- package.json
+- package-lock.json
+- tailwind.config.js
+- tailwind.css
+- Ordner node_modules
+- .gitignore
+
 ## Setup
 Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 
 - Alle Dateien im htdocs Ordner speichern
 - XAMPP starten, (Apache, Mysql)
+- Falls Datenbank `Honig4U` bereits existiert: Löschen (https://localhost/phpmyadmin)
 - Dann zuerst die Datei core/Datenbank.php öffnen
 - Ändere die Datenbank Zugangsdaten in der Datei so, dass Sie mit der lokalen Datenbank übereinstimmen
 - Öffne deinen Browser und navigiere zum Projektordner
