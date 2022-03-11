@@ -29,12 +29,12 @@ Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 ## Test-Accounts
 
 Kunde:
-:globe_with_meridians: Email: _kunde@honig4u.ch_
-:key: Passwort: _IchKaufeHonig_
+- :globe_with_meridians: Email: _kunde@honig4u.ch_
+- :key: Passwort: _IchKaufeHonig_
 
 Mitarbeiter:
-:globe_with_meridians: Email: _mitarbeiter@honig4u.ch_
-:key: Passwort: _IchKannStornieren_
+- :globe_with_meridians: Email: _mitarbeiter@honig4u.ch_
+- :key: Passwort: _IchKannStornieren_
 
 ## Informationen
 - programmiert mit PHP 8
