@@ -19,10 +19,9 @@ Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 - _Optional: Alle Dateien die im Betrieb nicht gebraucht werden entfernen_
 - XAMPP starten, (Apache, Mysql)
 - Falls Datenbank `Honig4U` bereits existiert: Löschen (https://localhost/phpmyadmin)
-- Dann zuerst die Datei core/Datenbank.php __im Editor__ öffnen
+- Dann zuerst die Datei ./core/datenbank.php __im Editor__ öffnen
 - Ändere die Datenbank Zugangsdaten in der Datei so, dass Sie mit der lokalen Datenbank übereinstimmen
-- Öffne deinen Browser und navigiere zum Projektordner
-- Navigiere dann zu core/Datenbank.php
+- Öffne deinen Browser und navigiere zum Projektordner/core/datenbank.php
 - Jetzt sollten mehrere Erfolgsnachrichten erscheinen, falls die Datenbank Datei richtig konfiguriert ist.
 
 :white_check_mark: Geschafft! Der Shop ist nun einsatzbereit.
@@ -30,12 +29,12 @@ Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 ## Test-Accounts
 
 Kunde:
-- Email: kunde@honig4u.ch
-- Passwort: IchKaufeHonig
+:globe_with_meridians: Email: _kunde@honig4u.ch_
+:key: Passwort: _IchKaufeHonig_
 
 Mitarbeiter:
-- Email: mitarbeiter@honig4u.ch
-- Passwort: IchKannStornieren
+:globe_with_meridians: Email: _mitarbeiter@honig4u.ch_
+:key: Passwort: _IchKannStornieren_
 
 ## Informationen
 - programmiert mit PHP 8
