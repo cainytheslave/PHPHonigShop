@@ -18,7 +18,7 @@ Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 - Alle Dateien im htdocs Ordner speichern
 - XAMPP starten, (Apache, Mysql)
 - Falls Datenbank `Honig4U` bereits existiert: Löschen (https://localhost/phpmyadmin)
-- Dann zuerst die Datei core/Datenbank.php im Editor öffnen
+- Dann zuerst die Datei core/Datenbank.php __im Editor__ öffnen
 - Ändere die Datenbank Zugangsdaten in der Datei so, dass Sie mit der lokalen Datenbank übereinstimmen
 - Öffne deinen Browser und navigiere zum Projektordner
 - Navigiere dann zu core/Datenbank.php
