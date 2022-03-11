@@ -14,7 +14,7 @@ Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 - Navigiere dann zu core/Datenbank.php
 - Jetzt sollten mehrere Erfolgsnachrichten erscheinen, falls die Datenbank Datei richtig konfiguriert ist.
 
-[x] Geschafft! Der Shop ist nun einsatzbereit.
+:white_check_mark Geschafft! Der Shop ist nun einsatzbereit.
 
 ## Informationen
 - programmiert mit PHP 8
