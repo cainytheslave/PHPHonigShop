@@ -3,6 +3,19 @@
 
 Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem Geschäftsleiter der Firma überarbeitet werden.
 
+## Setup
+Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
+
+- Alle Dateien im htdocs Ordner speichern
+- XAMPP starten, (Apache, Mysql)
+- Dann zuerst die Datei core/Datenbank.php öffnen
+- Ändere die Datenbank Zugangsdaten in der Datei so, dass Sie mit der lokalen Datenbank übereinstimmen
+- Öffne deinen Browser und navigiere zum Projektordner
+- Navigiere dann zu core/Datenbank.php
+- Jetzt sollten mehrere Erfolgsnachrichten erscheinen, falls die Datenbank Datei richtig konfiguriert ist.
+
+[x] Geschafft! Der Shop ist nun einsatzbereit.
+
 ## Informationen
 - programmiert mit PHP 8
 - Plain PHP, keine externen PHP Skripts
