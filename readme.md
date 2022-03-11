@@ -15,7 +15,8 @@ Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem G
 ## Setup
 Um den Shop in Betrieb zu nehmen müssen ein Paar Dinge angepasst werden.
 
-- Alle Dateien im htdocs Ordner speichern
+- Alle Dateien im htdocs Ordner speichern: `git clone https://github.com/cainytheslave/PHPHonigShop.git`
+- _Optional: Alle Dateien die im Betrieb nicht gebraucht werden entfernen_
 - XAMPP starten, (Apache, Mysql)
 - Falls Datenbank `Honig4U` bereits existiert: Löschen (https://localhost/phpmyadmin)
 - Dann zuerst die Datei core/Datenbank.php __im Editor__ öffnen
