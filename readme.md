@@ -1,11 +1,9 @@
 ## Honig4U Online Shop
 ### von Muzaffer
----
 
 Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem Geschäftsleiter der Firma überarbeitet werden.
 
 ## Informationen
----
 - programmiert mit PHP 8
 - Plain PHP, keine externen PHP Skripts
 - Styling mit TailwindCSS
@@ -16,7 +14,6 @@ Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem G
 - Für Mobilgeräte optimiert
 
 ## Seiten
----
 Startseite
 : Leitet weiter zum Shop 
 
@@ -36,7 +33,7 @@ Mitarbeiterbereich
 : Eingeloggte Mitarbeiter können hier Bestellungen stornieren.
 
 ## Test-Accounts
----
+
 Kunde:
 - Email: kunde@honig4u.ch
 - Passwort: IchKaufeHonig
