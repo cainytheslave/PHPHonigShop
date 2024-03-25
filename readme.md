@@ -1,5 +1,4 @@
 ## Honig4U Online Shop
-### von Muzaffer
 
 Die Version 1.0 des E-Shops der Firma "Honig4U" soll gemäss Gespräch mit dem Geschäftsleiter der Firma überarbeitet werden.
 
